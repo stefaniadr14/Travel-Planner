@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="action_go">Go</string>
+    <string name="planner_title">Gemini, your Travel Assistant</string>
+    <string name="label_prompt">Please provide the city you are visiting</string>
+    <string name="results_placeholder">(Wait for your plan ;))</string>
+</resources>
